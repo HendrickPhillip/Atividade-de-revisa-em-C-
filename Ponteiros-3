@@ -16,7 +16,7 @@ int funcao_char(char *a, char *b, int n){
 }
 
 int main(){
-    char frase_1[] = "valdemir Pessoa de Carvalho Neto";
+    char frase_1[] = "Hendrick Phillip";
     char frase_2[33] = {};
     char *a,*b;
     int x, c;
